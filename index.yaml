@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  tenant:
+  - apiVersion: v2
+    appVersion: v5.0.5
+    created: "2023-06-27T12:56:43.660739245+05:30"
+    description: A Helm chart for MinIO Operator
+    digest: 54da535244d988c6ca206751d5d7980136de7161f09ca43379a4a47a3d6892fe
+    home: https://min.io
+    icon: https://min.io/resources/img/logo/MINIO_wordmark.png
+    keywords:
+    - storage
+    - object-storage
+    - S3
+    maintainers:
+    - email: dev@minio.io
+      name: MinIO, Inc
+    name: tenant
+    sources:
+    - https://github.com/minio/operator
+    type: application
+    urls:
+    - https://github.com/shtripat/shubhendu-helm/tenant-5.0.5.tgz
+    version: 5.0.5
+generated: "2023-06-27T12:56:43.659672597+05:30"
